@@ -4,4 +4,4 @@
 
 ## Hey there 👋
 
-We're [Pleo](https://pleo.io). Interested in what we're doing? We're hiring, checkout out our [open positions](https://boards.greenhouse.io/pleo)!
+We're [Pleo](https://pleo.io). Interested in what we're doing? We're hiring, check out our [open positions](https://boards.greenhouse.io/pleo)!
